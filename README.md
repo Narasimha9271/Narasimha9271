@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Internships<br>🌱 I’m currently Exploring React.<br>🤔 I'm a sophomore at NIT Andhra Pradesh.<br>💬 Ask me about  Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/narasimha-p-l-bb249b230/<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like to eat Ice-Cream while raining.
+🔭 I’m Currently Preparing For Internships.<br>🌱 I’m currently Exploring React.<br>🤔 I'm a sophomore at NIT Andhra Pradesh.<br>💬 Ask me about  Exciting projects to work on.<br>📫 How to reach me: narasimhapalla729@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like to eat Ice-Cream while raining.
 
 
 ## 🌐 Socials:
