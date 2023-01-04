@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I love learning cool stuff.<br>🌱 I’m currently Exploring React.<br>🤔 I'm a sophomore at NIT Andhra Pradesh.<br>💬 Ask me about  Exciting projects to work on.<br>📫 How to reach me: narasimhapalla729@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I'm a beast.
+🔭 I love learning cool stuff.<br>🌱 I’m currently Exploring React.<br>🤔 I'm a sophomore at NIT Andhra Pradesh.<br>💬 Ask me about  Exciting projects to work on.<br>📫 How to reach me: narasimhapalla729@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I think I am funny.
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Narasimha9271&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
