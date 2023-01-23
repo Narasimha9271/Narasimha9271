@@ -18,5 +18,5 @@
 
 
 ---
-![Profile views](https://gpvc.arturio.dev/[Narasimha9271])
+[![Profile views]](https://gpvc.arturio.dev/[Narasimha9271])
 
